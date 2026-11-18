@@ -75,7 +75,6 @@ build-vision-cuda12.bat
 /terminal/third_party/*.zip
 
 # IDEs
-.vscode/
 .idea/
 .cursor/
 
@@ -122,3 +121,4 @@ node_modules/
 /build-vision-spark/
 /terminal/.venv-build/
 /.venv-build/
+config.bat
